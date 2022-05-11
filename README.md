@@ -23,7 +23,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Steven Vasquez's GitHub Stats" src="https://github-readme-stats-rhysmalyon.vercel.app/api?username=angrysun&show_icons=true&hide_border=true" />
+  <img align="left" alt="Steven Vasquez's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=angrysun&show_icons=true&hide_border=true" alt="angrysun" />
 
 </details>
 
