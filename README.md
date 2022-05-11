@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻🎨 I'm currently working with the Rails framework. I enjoy working on the logical backend as much as I enjoy making a beautiful frontend.
 
-- 🌱📚 I’m currently learning and really liking **React.js**.
+- 🌱📚 I’m currently using and really liking **React Native**.
 
 - 📱💻 Ask me anything about **Rails** or how to make a web-app responsive.
 
